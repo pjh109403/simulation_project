@@ -21,3 +21,6 @@ https://github.com/osrf/gazebo_models 다운 후 ./gazebo/models에 복사
 
 ## URI 태그는 절대경로만 가능해서 각 PC 마다 변경해야 한다.
 
+## 초기 launch 실행 방법
+ 1) costa_launch.launch
+ 2) put_robot_in_world.launch
